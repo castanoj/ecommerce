@@ -1,0 +1,41 @@
+.pruduct-card{
+    height: 100%;
+    margin: 35px 0 50px 0;
+    
+}
+
+.product{
+    height:450px;
+}
+
+.img-card{
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.img-card img {
+    display: block;
+    height: 80%;
+    margin: 0 auto;
+    object-fit: contain;
+    width: 80%;
+}
+
+.body{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    
+}
+.title-home{
+    
+    height: 50px;
+}
+
+.price-home{
+    
+    text-align: center;
+}
+
